@@ -1,11 +1,17 @@
 ### Hi there 👋
 # [Ana luisa ferreira] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-- 📣 Nós podemos falar em: <portugues>Seus Idiomas</espanhol>
+- 📣 Nós podemos falar em: <strong>portugues, espanhol</strong>
 
- <a href="#" alternativo="Gmail">
- <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=analuisaferreira250@gmail.com"/></a>
- <a href="#" alternativo="Instagram">
 
+
+ <div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=analuisaferreira250@gmail.com"/></a>
+
+  
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ana000_4?igsh=MXBnMmwyZ2xmZG1leg=="/></a>
 
 
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
