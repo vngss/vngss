@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Hello](https://media0.giphy.com/media/EZICHGrSD5QEFCxMiC/giphy.gif?cid=790b76113e900403adeb35a1bdd9b026a5e5a0fd728f059b&rid=giphy.gif&ct=g)
+![Hello](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.showmetech.com.br%2Fgifs-mais-usados-em-2021%2F&psig=AOvVaw17WPkmLgHUF_tOmVNPvRqc&ust=1711452700792000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDk45epj4UDFQAAAAAdAAAAABAE)
 
 <!--
 **vngss/vngss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
