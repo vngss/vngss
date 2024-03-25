@@ -1,5 +1,6 @@
 ### Hi there 👋
-(![Hello](https://www.google.com/imgres?q=gif&imgurl=http%3A%2F%2Fpop.h-cdn.co%2Fassets%2F17%2F24%2F640x392%2Fgallery-1497533116-not-dead.gif&imgrefurl=https%3A%2F%2Fwww.popularmechanics.com%2Ftechnology%2Fa21457%2Fthe-gif-is-dead-long-live-the-gif%2F&docid=19wEH3I1BsamMM&tbnid=lDINrJK1fxx1NM&vet=12ahUKEwj7hdiiqI-FAxV2rZUCHdTyANAQM3oECE4QAA..i&w=640&h=392&hcb=2&ved=2ahUKEwj7hdiiqI-FAxV2rZUCHdTyANAQM3oECE4QAA))
+![Hello](https://media0.giphy.com/media/EZICHGrSD5QEFCxMiC/giphy.gif?cid=790b76113e900403adeb35a1bdd9b026a5e5a0fd728f059b&rid=giphy.gif&ct=g)
+
 <!--
 **vngss/vngss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
