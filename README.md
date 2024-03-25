@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/ana000_4?igsh=MXBnMmwyZ2xmZG1leg=="/></a>
 
 
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vngss"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vngss&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
    
 <!--
 <!--
